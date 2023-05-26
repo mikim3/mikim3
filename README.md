@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![mikim3's 42 stats](https://badge42.vercel.app/api/v2/cli48122b003508lavkvr0jfn/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaalstn0107)](https://solved.ac/rlaalstn0107)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstn0107)](https://solved.ac/rlaalstn0107)
+
 <!--
 **rlaalstn0107/rlaalstn0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
