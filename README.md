@@ -1,6 +1,6 @@
 ### 성장과 몰입을 즐기는 개발자 김민수입니다.
 
-[![mikim3's 42 stats](https://badge.mediaplus.ma/honeytones/mikim3)](https://github.com/oakoudad/badge42)
+[![mikim3's 42 stats](https://badge.mediaplus.ma/honeytones/mikim3)](https://github.com/mikim3/badge42)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalstn0107)](https://solved.ac/rlaalstn0107)
 
